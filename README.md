@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 Eager to transform my mindset and delve into the world of functional programming
 - 🎯: System Designer!
-- I tolerate JS frameworks (except React)
 
 <p align="center">
   <h1>My Tech Stach:</h1>
