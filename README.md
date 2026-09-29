@@ -17,5 +17,5 @@
 </p>
 
 <p align="center">
-  <p><img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=grug-dev&show_icons=true&locale=en&layout=donut&langs_count=10" alt="grugdev-stats" /></p>
+  <p><img align="center" style="width: 100%" src="./profile/top-langs.svg" alt="grugdev-stats" /></p>
 </p>
